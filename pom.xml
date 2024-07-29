@@ -95,6 +95,12 @@
     <artifactId>extentreports</artifactId>
     <version>5.0.9</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/net.sourceforge.tess4j/tess4j -->
+<dependency>
+    <groupId>net.sourceforge.tess4j</groupId>
+    <artifactId>tess4j</artifactId>
+    <version>5.12.0</version>
+</dependency>
 
   </dependencies>
   <profiles>
